@@ -1,6 +1,7 @@
 ## Questions
 
-** 1. In the lo4j.properties, change the level from INFO to DEBUG, what happens? **
+### Q1. In the lo4j.properties, change the level from INFO to DEBUG, what happens?
+
 When the level is INFO, only INFO related logs are displayed, as:
 ```
 12:02:33,306  INFO Log4jBasics:11 - INFO: Cool !
