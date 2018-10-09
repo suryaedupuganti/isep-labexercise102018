@@ -1,0 +1,2 @@
+This is a sample text file used for copying.
+The contents in this file are taken and can be copied to a new file
